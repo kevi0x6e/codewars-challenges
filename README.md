@@ -7,7 +7,7 @@ My solutions for the codewars challenges using C# language and .NET Core 6.0
 
 ###  How to use
 
-First you need [.NET Core](https://learn.microsoft.com/pt-br/dotnet/), after it, run follow the commands
+First you need [.NET Core](https://learn.microsoft.com/pt-br/dotnet/), after it, run the commands, you need change the functions in Program.cs, follow the exemple
 
 ```c#
 dotnet build
@@ -16,8 +16,6 @@ dotnet build
 ```c#
 dotnet run --project ./Challenges
 ```
-
-*Follow the exemple to call others challenges in Program.cs
 
 ## License
 
